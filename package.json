@@ -32,7 +32,7 @@
   "dependencies": {
     "@sap/edm-converters": "1.0.19",
     "@sap/xsenv": "2.2.0",
-    "axios": "0.19.0",
+    "axios": "0.21.1",
     "bignumber.js": "8.1.1",
     "chalk": "^2.4.2",
     "jsonwebtoken": "8.5.1",
